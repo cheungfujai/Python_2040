@@ -1,6 +1,3 @@
-# Python_2040
-I took this course of Introduction to Python in September 2018. However, this is not my majory require course but I still decided to take it as a challenge together with all my other major courses at the same time. This is because of preparing for self-learning subject in statistics, machine&deep learning in my coming year before graduate. The following .py files are exercises that done within 2 months.
-
 # Course outline (What I learned):
 • Introduction: installation, variables, operators, control, list..., etc. <br/>
 • Variables, strings, numbers, basic operations. <br/>
